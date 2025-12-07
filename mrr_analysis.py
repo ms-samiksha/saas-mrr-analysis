@@ -3,7 +3,7 @@
 
 import matplotlib.pyplot as plt
 import pandas as pd
-
+# Minor update for PR detection
 # -----------------------------
 # 1. Define the quarterly data
 # -----------------------------
