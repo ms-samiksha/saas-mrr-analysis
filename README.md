@@ -78,3 +78,5 @@ To close the gap and move closer to an MRR growth of 15, we recommend:
 
 This analysis provides a concise but complete data story:  
 we are underperforming vs the industry (7.29 vs 15), improving but not fast enough, and need to **expand into new market segments** to unlock the next phase of growth.
+This analysis was generated using ChatGPT (LLM assistance).
+
