@@ -1,7 +1,5 @@
 # SaaS MRR Growth Analysis – 2024
 
-**Email:** 23f3001448@ds.study.iitm.ac.in  
-
 ## Business Context
 
 Our SaaS company is experiencing slowing monthly recurring revenue (MRR) growth.  
